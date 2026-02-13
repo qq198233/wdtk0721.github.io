@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2026/02/13/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>ATRI</title>
+    <url>/2026/02/13/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<p>在不远的未来，海平面原因不明地急速上升,导致了地表多数都沉入海中。</p>
+<p>小时候因为事故而失去一条腿的少年・斑鸠夏生，<br>厌倦了都市的生活，移居到了海边的乡村小镇。</p>
+<p>曾经身为海洋地质学家的祖母留给他的、<br>就只有船、潜水艇还有债务。</p>
+<p>夏生为了取回“失去的未来”，与迷之讨债人凯瑟琳一起，<br>潜海前往据说保存着祖母遗产的海底仓库。</p>
+<p>在那里，<br>他遇到了一位沉睡在如同棺材一般装置中不可思议的少女――亚托莉。</p>
+<p>她是一位构造精密到与人类别无二致，而又丰富感情的机器人。<br>从海底被打捞起来的亚托莉如是说到。</p>
+<p>「我想完成主人留给我的最后的命令。<br>　在此之前，我会成为夏生先生的腿！」</p>
+<p>在一个逐渐沉入海中的平和小镇，<br>少年和机器人少女的难忘夏日就这么开始了——</p>
+]]></content>
+      <categories>
+        <category>全年龄</category>
+      </categories>
+  </entry>
+</search>
